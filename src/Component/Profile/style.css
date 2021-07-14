@@ -1,0 +1,22 @@
+.pic {
+    height: 350px;
+    width: 450px;
+    margin-left: 450px;
+    padding-top: 50px;
+
+}
+.name {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+color:hotpink;
+text-align: center;
+font-weight:bolder;
+
+
+}
+.adress{
+    text-align: center;
+    color:purple;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+}
